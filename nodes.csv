@@ -8,26 +8,26 @@ id,name,role,sex,region,Funktion
 7,Ralph Suikat,Bundesschatzmeister,2,Bund,3
 8,Lukas Schön,Bundesgeschäftsführer,2,Bund,3
 9,Oskar Lafontaine,Mitglied BSW,2,Bund,1
-10,Rosa-Luxemburg-Stiftung,Institution,-,-,1
-11,Kommunistische Plattform,Institution,-,-,1
-12,IG Metall,Organisation,-,-,2
-13,Deutscher Tierschutzbund,Organisation,-,-,2
-14,Bochumer Bündnis gegen Rechts,Organisation,-,-,2
-15,Ver.di,Organisation,-,-,2
-16,Friedensplenum Bochum,NGO,-,-,5
-17,Bündnis Sahra Wagenknecht,Partei,-,-,3
-18,Bilfinger SE,Wirtschaftliches Unternehmen,-,-,4
-19,Haghsheno Investment & Consulting GmbH,Wirtschaftliches Unternehmen,-,-,4
-20,Yukon Projects GmbH,Wirtschaftliches Unternehmen,-,-,4
-21,Modugen GmbH,Wirtschaftliches Unternehmen,-,-,4
-22,Valoon GmbH,Wirtschaftliches Unternehmen,-,-,4
-23,German Lean Construction Institute,Organisation,-,-,2
-24,IPA-Zentrum – Kompetenzzentrum für Integrierte Projektabwicklung,Organisation,-,-,2
-25,Bündnis Versammlungsgesetz stoppen! Grundrechte erhalten!,NGO,-,-,5
-26,Linke Kreisvorstand Bochum,Institution,-,-,1
-27,Linke Geschäftsführer im Stadtrat Bochum,Institution,-,-,1
-28,Linke Landesvorstand NRW,Institution,-,-,1
-29,AStA Uni Bielefeld,Organisation,-,-,2
-30,Senat Uni Bielefeld,Organisation,-,-,2
-31,Bündnis gegen Rechts,Organisation,-,-,2
-32,Gewerkschafter*innen für Frieden und Solidarität,NGO,-,-,5
+10,Rosa-Luxemburg-Stiftung,Institution,unknown,unknown,1
+11,Kommunistische Plattform,Institution,unknown,unknown,1
+12,IG Metall,Organisation,unknown,unknown,2
+13,Deutscher Tierschutzbund,Organisation,unknown,unknown,2
+14,Bochumer Bündnis gegen Rechts,Organisation,unknown,unknown,2
+15,Ver.di,Organisation,unknown,unknown,2
+16,Friedensplenum Bochum,NGO,unknown,unknown,5
+17,Bündnis Sahra Wagenknecht,Partei,unknown,unknown,3
+18,Bilfinger SE,Wirtschaftliches Unternehmen,unknown,unknown,4
+19,Haghsheno Investment & Consulting GmbH,Wirtschaftliches Unternehmen,unknown,unknown,4
+20,Yukon Projects GmbH,Wirtschaftliches Unternehmen,unknown,unknown,4
+21,Modugen GmbH,Wirtschaftliches Unternehmen,unknown,unknown,4
+22,Valoon GmbH,Wirtschaftliches Unternehmen,unknown,unknown,4
+23,German Lean Construction Institute,Organisation,unknown,unknown,2
+24,IPA-Zentrum – Kompetenzzentrum für Integrierte Projektabwicklung,Organisation,unknown,unknown,2
+25,Bündnis Versammlungsgesetz stoppen! Grundrechte erhalten!,NGO,unknown,unknown,5
+26,Linke Kreisvorstand Bochum,Institution,unknown,unknown,1
+27,Linke Geschäftsführer im Stadtrat Bochum,Institution,unknown,unknown,1
+28,Linke Landesvorstand NRW,Institution,unknown,unknown,1
+29,AStA Uni Bielefeld,Organisation,unknown,unknown,2
+30,Senat Uni Bielefeld,Organisation,unknown,unknown,2
+31,Bündnis gegen Rechts,Organisation,unknown,unknown,2
+32,Gewerkschafter*innen für Frieden und Solidarität,NGO,unknown,unknown,5
